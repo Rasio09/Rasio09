@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hy Guys. I'M Rasio Fernandis👋
+
+🌱 I’m currently learning Website Programming
+🤔 I'm Development Mini Game. Name is EDUTK Game. This is game educational in the school 🔭
 
 <!--
 **Rasio09/Rasio09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
