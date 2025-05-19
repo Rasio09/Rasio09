@@ -1,6 +1,6 @@
 ![Rasio Fernandis](images/github-header-image.png)
 
-🌱 I’m currently learning Website Programming | Mini Game | Mini Analyst Data | 
+🌱 I’m currently learning Website Programming | Mini Game | Mini Analyst Data | Developer
 
 🤔 I'm Development Mini Game. Name is EDUTK Game. This is game educational in the school 🔭
 
